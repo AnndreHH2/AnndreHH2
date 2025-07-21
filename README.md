@@ -36,7 +36,7 @@
 - 💳 **[PagosMoviles](https://github.com/Arkvoodle7/PagosMoviles)**  
   Sistema distribuido para pagos móviles entre cuentas bancarias.
 
-- 📊 **ReportesMucap** *(privado o interno)*  
+- 📊 **ReportesMucap** *(Interno)*  
   Plataforma para gestión y visualización de equipos de cómputo.
 
 📫 Contacto: `tucorreo@ejemplo.com`

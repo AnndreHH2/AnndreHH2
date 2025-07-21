@@ -1,6 +1,14 @@
 <h1 align="center">¡Hola, soy Andrey Quesada! 👨‍💻</h1>
 <p align="center">
   Desarrollador apasionado por la tecnología, la programación eficiente y la seguridad informática.
+
+- 💻 Me encanta programar en C#, Python y trabajar con bases de datos como SQL Server y MongoDB.  
+- 🧠 Me interesa profundamente la **administración de sistemas**, la **gestión de infraestructura tecnológica** y la **automatización de tareas repetitivas**.
+- ✅ Disfruto del mundo del **QA (Quality Assurance)**: escribir casos de prueba, validar flujos, encontrar errores y asegurar que todo funcione como debe.
+- 🔐 También tengo afinidad por temas de **seguridad informática** y buenas prácticas en el desarrollo seguro.
+- 🛠️ Siempre busco aprender, crecer profesionalmente y trabajar en entornos bien organizados y colaborativos.
+
+> Actualmente realizando mi práctica profesional en MUCAP y creando herramientas útiles para la gestión de equipos y procesos internos.
 </p>
 
 ### 🚀 Tecnologías que manejo
@@ -27,6 +35,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🚀 Tecnologías que disfruto aprender
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 📌 Proyectos destacados
 
@@ -39,5 +52,5 @@
 - 📊 **ReportesMucap** *(Interno)*  
   Plataforma para gestión y visualización de equipos de cómputo.
 
-📫 Contacto: `tucorreo@ejemplo.com`
+📫 Contacto: `andreyq149@gmail.com`
 

@@ -8,7 +8,7 @@
 - 🔐 También tengo afinidad por temas de **seguridad informática** y buenas prácticas en el desarrollo seguro.
 - 🛠️ Siempre busco aprender, crecer profesionalmente y trabajar en entornos bien organizados y colaborativos.
 
-> Actualmente realizando mi práctica profesional en MUCAP y creando herramientas útiles para la gestión de equipos y procesos internos.
+> Actualmente realizando mi práctica profesional en MUCAP.
 </p>
 
 ### 🚀 Tecnologías que manejo
@@ -40,6 +40,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### 📌 Proyectos destacados
 

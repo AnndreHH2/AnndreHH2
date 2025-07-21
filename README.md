@@ -2,8 +2,8 @@
 <p align="center">
   Desarrollador apasionado por la tecnología, la programación eficiente y la seguridad informática.
 
-- 💻 Me encanta programar en C#, Python y trabajar con bases de datos como SQL Server y MongoDB.  
-- 🧠 Me interesa profundamente la **administración de sistemas**, la **gestión de infraestructura tecnológica** y la **automatización de tareas repetitivas**.
+- 💻 Me gusta programar en C#, Python y trabajar con bases de datos como SQL Server y MongoDB.  
+- 🧠 Me interesa profundamente la **administración de sistemas**, la **gestión de infraestructura tecnológica**.
 - ✅ Disfruto del mundo del **QA (Quality Assurance)**: escribir casos de prueba, validar flujos, encontrar errores y asegurar que todo funcione como debe.
 - 🔐 También tengo afinidad por temas de **seguridad informática** y buenas prácticas en el desarrollo seguro.
 - 🛠️ Siempre busco aprender, crecer profesionalmente y trabajar en entornos bien organizados y colaborativos.
